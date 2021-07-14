@@ -32,3 +32,8 @@ git secrets --add 'private_key' --global
 git secrets --add 'private_key_id' --global
 git secrets --add 'kind: Secret' --global
 ```
+
+# git push --set-upstream origin masterって毎回聞かれるのをやめる
+```
+git config --global push.default current
+```
