@@ -1,0 +1,2 @@
+# setup_macOS
+MBPなどのMacOSの環境構築をする時にやることをメモっておく
